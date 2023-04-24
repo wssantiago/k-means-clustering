@@ -2,7 +2,7 @@
 
 ## 🔧 Setup
 
-Before running the project, you must have the following tools installed on your machine: 
+Before running the project, you must have the following tool installed on your machine: 
 * [Python v3.11.0](https://www.python.org/downloads/release/python-3110/)
 
 Also, you will need to clone the repository:
